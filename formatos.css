@@ -1,0 +1,15 @@
+.imagen_importante {
+    max-width: 20%; /* Ancho máximo de la imagen al 100% del contenedor */
+    height: auto; /* Altura automática para mantener la proporción */
+}
+nav {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 15px;
+}
