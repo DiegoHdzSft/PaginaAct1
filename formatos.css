@@ -1,6 +1,6 @@
 .imagen_importante {
-    max-width: 20%; /* Ancho máximo de la imagen al 100% del contenedor */
-    height: auto; /* Altura automática para mantener la proporción */
+    max-width: 20%;
+    height: auto; 
 }
 nav {
     background-color: #333;
@@ -12,4 +12,32 @@ nav a {
     color: #fff;
     text-decoration: none;
     padding: 0 15px;
+}
+.s_titulos{
+    background-color: #333;
+    color: hsl(42, 100%, 46%);
+}
+.titulo {
+    text-align: center;
+    background-color: rgb(35, 35, 35);
+    color: hsl(42, 100%, 46%);
+    padding: 20px 0;
+    font-size: 30px;
+}
+.gif{
+    display: block;
+    margin: 0 auto;
+    max-width: 20%;
+    height: auto; 
+}
+.gif_contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.gif_contenedor img {
+    max-width: 200px;
+    height: auto;
+    margin: 10px;
 }
