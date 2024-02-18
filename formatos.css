@@ -41,3 +41,12 @@ nav a {
     height: auto;
     margin: 10px;
 }
+.tablas {
+    width: 100%;
+}
+
+.tablas th, .tablas td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
