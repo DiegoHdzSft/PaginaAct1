@@ -50,3 +50,12 @@ nav a {
     padding: 8px;
     text-align: center;
 }
+
+body{
+    background-color: #959494;
+}
+
+.formulario{
+    background-color: #333;
+    color: hsl(42, 100%, 46%);
+}
